@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gUIDnWgAAAAJ&hl=zh-CN"
-  email            : jiangmuhui@gmail.com
+  personal_email   : jiangmuhui@gmail.com
+  polyu_email      : 16900820R@connect.polyu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
