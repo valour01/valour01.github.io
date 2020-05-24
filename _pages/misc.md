@@ -13,6 +13,10 @@ redirect_from:
 <p align="right">-- Albert Einstein</p>
 
 
+## Links
+[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/) <br>
+[CCF Ranking](https://www.ccf.org.cn/Academic_Evaluation/By_category/)<br>
+[The Ph.D. Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 
 
 
