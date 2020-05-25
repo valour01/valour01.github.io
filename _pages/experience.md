@@ -32,7 +32,7 @@ redirect_from:
 
 ## Working
 
-###  Apr 2015 - Dec 2016 
+###  Apr 2015 - Dec 2015 
 **International Intern**, GPI NetOpsDev Department, CCOE, eBay Inc. 
 
 ###  Mar 2016 - Jun 2016
