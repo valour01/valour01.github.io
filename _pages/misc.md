@@ -20,6 +20,6 @@ redirect_from:
 
 
 ## Writing
-[Linggle](https://linggle.com/)
-[Grammarly]https://app.grammarly.com/
+[Linggle](https://linggle.com/)<br>
+[Grammarly](https://app.grammarly.com/)
 
