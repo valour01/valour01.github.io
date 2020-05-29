@@ -22,4 +22,4 @@ redirect_from:
 ## Writing
 [Linggle](https://linggle.com/)<br>
 [Grammarly](https://app.grammarly.com/)
-
+[How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf)
