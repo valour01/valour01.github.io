@@ -22,5 +22,5 @@ redirect_from:
 ## Writing
 [Linggle](https://linggle.com/)<br>
 [Grammarly](https://app.grammarly.com/)<br>
-[How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf)<br>
-[Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf)
+[How to Write Research Papers](https://www.muhui.site/files/writepapers.pdf) by Tao Xie<br>
+[Common Technical Writing Issues](https://www.muhui.site/files/writeissues.pdf) by Tao Xie
