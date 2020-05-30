@@ -21,6 +21,6 @@ redirect_from:
 
 ## Writing
 [Linggle](https://linggle.com/)<br>
-[Grammarly](https://app.grammarly.com/)
-[How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf)
+[Grammarly](https://app.grammarly.com/)<br>
+[How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf)<br>
 [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf)
