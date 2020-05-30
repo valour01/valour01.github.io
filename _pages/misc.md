@@ -23,3 +23,4 @@ redirect_from:
 [Linggle](https://linggle.com/)<br>
 [Grammarly](https://app.grammarly.com/)
 [How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf)
+[Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf)
