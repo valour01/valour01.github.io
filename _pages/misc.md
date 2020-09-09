@@ -24,4 +24,5 @@ redirect_from:
 [Grammarly](https://app.grammarly.com/)<br>
 [How to Write Research Papers](https://www.muhui.site/files/writepapers.pdf) by Tao Xie<br>
 [Common Technical Writing Issues](https://www.muhui.site/files/writeissues.pdf) by Tao Xie<br>
-[Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
+[Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)<br>
+[Writing Rebuttal](https://nebelwelt.net/blog/20180704-rebuttal.html) by Mathias Payer
