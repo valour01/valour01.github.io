@@ -14,7 +14,7 @@ Before coming to PolyU, I received my B.Eng. in [Department of Software Engineer
 
 My current research interests include network security, system security and IoT security. More specifically, I am interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques and DDoS.
 
-Please email me if you need my up-to-date CV.
+I am on the job market! Please email me if you need my up-to-date CV.
 
 <hr>
 
