@@ -12,9 +12,11 @@ I am now a Ph.D. candidate studying in the [Department of Computing](https://www
 
 Before coming to PolyU, I received my B.Eng. in [Department of Software Engineering](http://sse.tongji.edu.cn/),  [Tongji University](http://www.tongji.edu.cn/) in 2016.
 
-My current research interests include network security, system security and IoT security. More specifically, I am interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques and DDoS.
+My current research interests include blockchain security, network security, system security and IoT security. More specifically, I am interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques, and Defi security.
 
 You can find my CV [here](https://www.muhui.site/files/CV_Muhui.pdf).
+
+Note: the PolyU email will expire soon. Please contact me via my personal email. 
 
 <hr>
 
