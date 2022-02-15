@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. candidate studying in the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) , under the supervision of [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). I also work closely with [Dr. Yajin Zhou](http://yajin.org/). 
+Muhui obtained his Ph.D. degree in [Department of Computing](https://www.comp.polyu.edu.hk/) from the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) , under the supervision of [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He also works closely with [Dr. Yajin Zhou](http://yajin.org/). 
 
-Before coming to PolyU, I received my B.Eng. in [Department of Software Engineering](http://sse.tongji.edu.cn/),  [Tongji University](http://www.tongji.edu.cn/) in 2016.
+Before coming to PolyU, He received his B.Eng. in [Department of Software Engineering](http://sse.tongji.edu.cn/),  [Tongji University](http://www.tongji.edu.cn/) in 2016.
 
-My current research interests include blockchain security, network security, system security and IoT security. More specifically, I am interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques, and Defi security.
+His current research interests include blockchain security, network security, system security and IoT security. More specifically, He is interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques, and Defi security.
 
-You can find my CV [here](https://www.muhui.site/files/CV_Muhui.pdf).
+You can find his CV [here](https://www.muhui.site/files/CV_Muhui.pdf).
 
 Note: the PolyU email will expire soon. Please contact me via my personal email. 
 
