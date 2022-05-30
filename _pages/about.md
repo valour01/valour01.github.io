@@ -14,7 +14,7 @@ Before coming to PolyU, He received his B.Eng. in [Department of Software Engine
 
 His current research interests include blockchain security, network security, system security and IoT security. More specifically, He is interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques, and Defi security.
 
-You can find his CV [here](https://www.muhui.site/files/CV_Muhui.pdf).
+Please email me if you need my updated CV. Thanks!
 
 Note: the PolyU email will expire soon. Please contact me via my personal email. 
 
