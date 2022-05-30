@@ -32,9 +32,6 @@ redirect_from:
 
 ## Working
 
-###  Dec 2021 - Now 
-**Director of Security Service**, [BlockSec](https://blocksecteam.com/)
-
 ###  Apr 2015 - Dec 2015 
 **International Intern**, GPI NetOpsDev Department, CCOE, eBay Inc. 
 
