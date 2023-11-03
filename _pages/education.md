@@ -9,7 +9,7 @@ redirect_from:
 <hr>
 
 **The Hong Kong Polytechnic University**<br>
-Jul 2016 - Nov 2021 <br>
+Jul 2016 - Feb 2022 <br>
 Ph.D. in Department of Computing<br>
 Hong Kong SAR, China 
 
