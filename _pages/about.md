@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Muhui obtained his Ph.D. degree in [Department of Computing](https://www.comp.polyu.edu.hk/) from the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) , under the supervision of [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/) in Feb 2022. He also works closely with [Dr. Yajin Zhou](http://yajin.org/). He is now leading the audit team in [BlockSec](). 
+Muhui obtained his Ph.D. degree in [Department of Computing](https://www.comp.polyu.edu.hk/) from the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) , under the supervision of [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He also works closely with [Dr. Yajin Zhou](http://yajin.org/). He is now leading the audit team in [BlockSec](https://blocksec.com/). 
 
-Before coming to PolyU, He received his B.Eng. in [Department of Software Engineering](http://sse.tongji.edu.cn/),  [Tongji University](http://www.tongji.edu.cn/) in 2016.
 
-His current research interests include blockchain security, network security, system security and IoT security. More specifically, He is interested in reverse engineering, binary analysis, firmware rehosting, fuzzing techniques, and Defi security.
 
-Please email me if you need my updated CV. Thanks!
+His current research interests include blockchain security, network security, system security and IoT security. More specifically, He is interested in Defi security, reverse engineering, binary analysis, firmware rehosting, and fuzzing techniques.
+
 
 
 <hr>
