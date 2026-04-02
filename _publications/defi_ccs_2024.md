@@ -2,7 +2,7 @@
 title: "Exploring the Security Issues of Real World Assets (RWA)"
 collection: publications
 permalink: /publication/defi_ccs_2024
-excerpt: '**Muhui Jiang** et al.'
+excerpt: 'Shijian Chen, **Muhui Jiang**, Xiapu Luo'
 date: 2024-10-14
 venue: 'Workshop on Decentralized Finance and Security, co-located with CCS (**DeFi@CCS 2024**)'
 
