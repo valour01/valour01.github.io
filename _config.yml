@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. JIANG Muhui"
   avatar           : "muhui.jpg"
-  bio              : "BSc(Tongji); PhD(PolyU)"
+  bio              : "CSO @ BlockSec | BSc(Tongji); PhD(PolyU)"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gUIDnWgAAAAJ&hl=zh-CN"
   personal_email   : jiangmuhui@gmail.com
-  polyu_email      : muhjiang@polyu.edu.hk
+  polyu_email      : matt@blocksec.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

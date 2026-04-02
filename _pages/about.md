@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Muhui obtained his Ph.D. degree in [Department of Computing](https://www.comp.polyu.edu.hk/) from the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) , under the supervision of [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He also works closely with [Dr. Yajin Zhou](http://yajin.org/). He is now leading the audit team in [BlockSec](https://blocksec.com/). 
+Muhui is the Chief Security Officer (CSO) at [BlockSec](https://blocksec.com/). He obtained his Ph.D. degree in [Department of Computing](https://www.comp.polyu.edu.hk/) from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He also works closely with [Dr. Yajin Zhou](http://yajin.org/). 
 
 
 
