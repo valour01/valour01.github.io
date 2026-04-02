@@ -38,3 +38,6 @@ redirect_from:
 ###  Mar 2016 - Jun 2016
 **Research Administration Assistant**, Department of Computing, PolyU.<br>
 Advisor: [Dr. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
+
+###  Dec 2021 - Present
+**Chief Security Officer (CSO)**, [BlockSec](https://blocksec.com/).
